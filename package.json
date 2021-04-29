@@ -1,5 +1,5 @@
 {
-  "name": "initProyects",
+  "name": "JavaScript-basic-skeleton",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,8 +8,7 @@
     "@babel/plugin-transform-runtime": "^7.13.10",
     "@babel/preset-env": "^7.13.10",
     "babel-loader": "^8.2.2",
-    "clean-webpack-plugin": "^3.0.0",
-    "copy-webpack-plugin": "^8.0.0",
+    "copy-webpack-plugin": "^8.1.1",
     "css-loader": "^5.1.3",
     "css-minimizer-webpack-plugin": "^1.3.0",
     "dotenv-webpack": "^7.0.2",
